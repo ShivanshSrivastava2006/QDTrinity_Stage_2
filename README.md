@@ -218,10 +218,10 @@ Developed as a submission for the **QD Trinity Challenge 2026**, a competition f
 
 ## Authors
 **Jajapuram Shiva Sai** 
-Indian Institute of Technology Roorkee
+> Indian Institute of Technology Roorkee
 
 **Shivansh Srivastava**  
-Indian Institute of Technlogy Roorkee
+> Indian Institute of Technology Roorkee
 
 Submission: 8th June 2026
 
