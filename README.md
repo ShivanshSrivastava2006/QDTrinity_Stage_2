@@ -229,7 +229,7 @@ Submission: 8th June 2026
 
 ## License
 
-This project is open source. See LICENSE file (if applicable) for details.
+This project is open source.
 
 ---
 
