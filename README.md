@@ -1,5 +1,3 @@
-I'll inspect the repository structure and content, then create a professional README.md.Now let me inspect the actual notebook and other key files to understand the project better:```markdown name=README.md url=https://github.com/ShivanshSrivastava2006/QDTrinity_Stage_2/blob/main/README.md
-
 # Binary Portfolio Optimization with Practical Constraints
 
 **A QUBO-inspired framework for discrete portfolio selection under sector diversification and budget constraints.**
