@@ -156,7 +156,7 @@ Clone this repository and install dependencies:
 git clone https://github.com/ShivanshSrivastava2006/QDTrinity_Stage_2.git
 cd QDTrinity_Stage_2
 
-pip install numpy pandas matplotlib scipy jupyter
+pip install -r requirements.txr
 ```
 
 ### Data Preparation
