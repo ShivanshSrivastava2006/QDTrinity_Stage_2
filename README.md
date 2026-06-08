@@ -233,8 +233,6 @@ This project is open source.
 
 ---
 
-## Questions & Feedback
 
-For questions about this work, please open an issue or contact the repository maintainer.
 
 ```
